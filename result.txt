@@ -1,0 +1,31 @@
+Bulls & Cows game result：
+Round 1
+Using guess from file: 1
+Your guess: 1234 | Bulls: 1 | Cows: 0
+Computer's guess: 2E56 | Bulls: 0 | Cows: 1
+Round 2
+Using guess from file: 2
+Your guess: 4321 | Bulls: 0 | Cows: 1
+Computer's guess: 95C8 | Bulls: 0 | Cows: 0
+Round 3
+Using guess from file: 3
+Your guess: 5830 | Bulls: 1 | Cows: 1
+Computer's guess: 32A7 | Bulls: 1 | Cows: 1
+Round 4
+Using guess from file: 4
+Your guess: 8437 | Bulls: 1 | Cows: 0
+Computer's guess: A24B | Bulls: 1 | Cows: 1
+Round 5
+Using guess from file: 5
+Your guess: 1238 | Bulls: 1 | Cows: 0
+Computer's guess: 7204 | Bulls: 2 | Cows: 0
+Round 6
+Using guess from file: 6
+Your guess: 4325 | Bulls: 1 | Cows: 1
+Computer's guess: F234 | Bulls: 3 | Cows: 0
+Round 7
+Using guess from file: 7
+Your guess: 5832 | Bulls: 1 | Cows: 1
+Computer's guess: 1234 | Bulls: 4 | Cows: 0
+The computer guessed your secret code! Better luck next time!
+Your secret code was: 1234 | The computer's secret code was: FA35
